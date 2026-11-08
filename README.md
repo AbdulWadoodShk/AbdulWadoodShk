@@ -14,67 +14,67 @@
 
 </div>
 
-> üî≠ **Currently:** shipping Agentic AI & Generative AI systems into production at **Capital One** ‚Äî LLM assistants, RAG pipelines and automated anomaly detection, owning design, testing, CI/CD and observability end to end.
+> 🔭 **Currently:** shipping Agentic AI & Generative AI systems into production at **Capital One** — LLM assistants, RAG pipelines and automated anomaly detection, owning design, testing, CI/CD and observability end to end.
 
-### üöÄ About Me
+### 🚀 About Me
 
-- ‚öôÔ∏è Nearly 4 years building high-scale, cloud-native backend systems in **Java, Python and Go**
-- üåê Fault-tolerant microservices, REST & GraphQL APIs and event-driven pipelines on AWS for **millions of users**
-- üß≠ Trusted to set technical direction, mentor engineers and turn ambiguous product goals into shipped features
+- ⚙️ Nearly 4 years building high-scale, cloud-native backend systems in **Java, Python and Go**
+- 🌐 Fault-tolerant microservices, REST & GraphQL APIs and event-driven pipelines on AWS for **millions of users**
+- 🧭 Trusted to set technical direction, mentor engineers and turn ambiguous product goals into shipped features
 
-### üíº Experience
+### 💼 Experience
 
 | Role | Company | Dates |
 |---|---|---|
-| **Software Development Engineer** | Capital One ‚Äî McLean, VA | Jan 2025 ‚Äì Present |
-| **Software Engineer** | University of Texas at Dallas ‚Äî Dallas, TX | Jun 2023 ‚Äì Dec 2024 |
-| **Java Developer** | Cognizant ‚Äî Bengaluru, India | Jan 2022 ‚Äì Oct 2022 |
+| **Software Development Engineer** | Capital One — McLean, VA | Jan 2025 – Present |
+| **Software Engineer** | University of Texas at Dallas — Dallas, TX | Jun 2023 – Dec 2024 |
+| **Java Developer** | Cognizant — Bengaluru, India | Jan 2022 – Oct 2022 |
 
-### üìà Impact Highlights
+### 📈 Impact Highlights
 
 | | |
 |---|---|
-| ü§ñ GenAI assistant (OpenAI + LangChain) | **‚àí35%** Tier-1 handle time, **‚àí20%** escalations |
-| ‚ö° API performance tuning (Datadog, CloudWatch) | p95 latency **2.1s ‚Üí 650ms** |
-| üõ°Ô∏è 10 Spring Cloud microservices (Java, Go) | **99.6%** reliability for millions of customers |
-| üõ∞Ô∏è Kafka/RabbitMQ anomaly detector with GenAI scoring | **‚àí40%** production incidents |
-| üîç Agentic AI code-review tool (LangGraph) | **45%** senior-reviewer time reclaimed |
-| üìö LangChain RAG knowledge system | Onboarding **4 weeks ‚Üí under 12 days** |
-| üß± Monolith ‚Üí 10 microservices | Deploys **3 days ‚Üí under 5 hours** |
-| üö¢ GitOps (Docker, Kubernetes, Argo CD) | Releases **4 hrs ‚Üí under 20 min** |
-| üß™ Test coverage + distributed tracing | Coverage **38% ‚Üí 76%**, MTTR **3.5 hrs ‚Üí under 50 min** |
-| üóÑÔ∏è SQL rewrite + Redis caching | Queries **4s ‚Üí under 800ms** |
-| üß† NLP data classification & routing | **70%** less manual processing |
+| 🤖 GenAI assistant (OpenAI + LangChain) | **−35%** Tier-1 handle time, **−20%** escalations |
+| ⚡ API performance tuning (Datadog, CloudWatch) | p95 latency **2.1s → 650ms** |
+| 🛡️ 10 Spring Cloud microservices (Java, Go) | **99.6%** reliability for millions of customers |
+| 🛰️ Kafka/RabbitMQ anomaly detector with GenAI scoring | **−40%** production incidents |
+| 🔍 Agentic AI code-review tool (LangGraph) | **45%** senior-reviewer time reclaimed |
+| 📚 LangChain RAG knowledge system | Onboarding **4 weeks → under 12 days** |
+| 🧱 Monolith → 10 microservices | Deploys **3 days → under 5 hours** |
+| 🚢 GitOps (Docker, Kubernetes, Argo CD) | Releases **4 hrs → under 20 min** |
+| 🧪 Test coverage + distributed tracing | Coverage **38% → 76%**, MTTR **3.5 hrs → under 50 min** |
+| 🗄️ SQL rewrite + Redis caching | Queries **4s → under 800ms** |
+| 🧠 NLP data classification & routing | **70%** less manual processing |
 
 <details>
-<summary><b>üìÇ Full experience details (click to expand)</b></summary>
+<summary><b>📂 Full experience details (click to expand)</b></summary>
 
-#### Capital One ‚Äî Software Development Engineer
+#### Capital One — Software Development Engineer
 - Spearheaded a production Agentic AI platform in Java, Spring Boot and Python
-- Launched a Generative AI assistant (OpenAI API, LangChain): ‚àí35% Tier-1 handle time, ‚àí20% Tier-2 escalations
-- Designed 10 fault-tolerant Spring Cloud microservices with REST/GraphQL APIs secured by Spring Security OAuth 2.0 ‚Äî 99.6% reliability
+- Launched a Generative AI assistant (OpenAI API, LangChain): −35% Tier-1 handle time, −20% Tier-2 escalations
+- Designed 10 fault-tolerant Spring Cloud microservices with REST/GraphQL APIs secured by Spring Security OAuth 2.0 — 99.6% reliability
 - Cut p95 API latency from 2.1s to 650ms with Datadog and CloudWatch telemetry
-- Built a real-time anomaly detector over Kafka and RabbitMQ with GenAI scoring ‚Äî 40% fewer production incidents
-- Hardened CI/CD with JUnit, Mockito, PyTest, Maven, Jenkins and GitOps ‚Äî 50% fewer regression escapes
+- Built a real-time anomaly detector over Kafka and RabbitMQ with GenAI scoring — 40% fewer production incidents
+- Hardened CI/CD with JUnit, Mockito, PyTest, Maven, Jenkins and GitOps — 50% fewer regression escapes
 - Led and mentored a 5-engineer squad through Agile delivery
 
-#### University of Texas at Dallas ‚Äî Software Engineer
+#### University of Texas at Dallas — Software Engineer
 - Shipped 15 production features (TypeScript, React, Spring Boot, PostgreSQL) with zero critical defects over 18 months
-- Pioneered an Agentic AI code-review tool (fine-tuned LLM + LangGraph) ‚Äî 45% of senior-reviewer time reclaimed
-- Created a LangChain RAG knowledge system ‚Äî onboarding cut from 4 weeks to under 12 days
-- Broke a monolith into 10 microservices (Spring Boot, Spring Data JPA, Swagger/OpenAPI) ‚Äî deploys from 3 days to under 5 hours
-- Shipped Docker, Kubernetes and Argo CD GitOps pipelines across AWS and Azure ‚Äî releases from 4 hours to under 20 minutes
-- Doubled test coverage (38% ‚Üí 76%) and cut P1/P2 MTTR from 3.5 hours to under 50 minutes
+- Pioneered an Agentic AI code-review tool (fine-tuned LLM + LangGraph) — 45% of senior-reviewer time reclaimed
+- Created a LangChain RAG knowledge system — onboarding cut from 4 weeks to under 12 days
+- Broke a monolith into 10 microservices (Spring Boot, Spring Data JPA, Swagger/OpenAPI) — deploys from 3 days to under 5 hours
+- Shipped Docker, Kubernetes and Argo CD GitOps pipelines across AWS and Azure — releases from 4 hours to under 20 minutes
+- Doubled test coverage (38% → 76%) and cut P1/P2 MTTR from 3.5 hours to under 50 minutes
 
-#### Cognizant ‚Äî Java Developer
+#### Cognizant — Java Developer
 - Delivered 8 production backend services (Java, Scala, Spring Boot, Hibernate/JPA) for Fortune-500 clients
-- Automated data classification and routing with NLP ‚Äî 70% less manual processing
+- Automated data classification and routing with NLP — 70% less manual processing
 - Sped up queries from 4s to under 800ms with SQL rewrites, index redesign and Redis caching
-- Wrote 150 JUnit and Selenium tests (coverage 35% ‚Üí 65%)
+- Wrote 150 JUnit and Selenium tests (coverage 35% → 65%)
 
 </details>
 
-### üõ†Ô∏è Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=java,python,go,scala,ts,js&theme=dark" />
@@ -97,24 +97,24 @@
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-2F81F7?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-6E40C9?style=flat-square)
 
-### üß© Featured Projects
+### 🧩 Featured Projects
 
-#### üí∞ SmartBudget ‚Äî Agentic AI Personal Finance App ¬∑ *Jul‚ÄìAug 2023*
+#### 💰 SmartBudget — Agentic AI Personal Finance App · *Jul–Aug 2023*
 `Java` `React` `Node.js` `MongoDB` `OpenAI API` `LangChain` `REST APIs`
 - Agentic AI spend-analysis that parses transaction history and surfaces personalised recommendations
 - Scaled to **~5,000 active users in 60 days** on AWS and GCP
-- **~30%** faster API responses ¬∑ **~40%** longer sessions ¬∑ **~20%** better retention
+- **~30%** faster API responses · **~40%** longer sessions · **~20%** better retention
 
-#### üè• QuickCare ‚Äî AI-Powered Customer Engagement Platform ¬∑ *May‚ÄìJun 2023*
+#### 🏥 QuickCare — AI-Powered Customer Engagement Platform · *May–Jun 2023*
 `MERN` `WebSockets` `AWS` `OpenAI API` `Argo CD` `Docker`
 - HIPAA-compliant, always-up platform with real-time WebSocket communication and Argo CD GitOps deployments
 - Agentic LLM triage module pre-classifies customer needs
-- **~25%** faster resolution ¬∑ **~30%** better preparation quality scores
+- **~25%** faster resolution · **~30%** better preparation quality scores
 
-### ü§ù Leadership & Mentorship
+### 🤝 Leadership & Mentorship
 
-- üë• Led and mentored a **5-engineer squad** at Capital One, setting code-review standards
-- üéì **Student Mentor, UT Dallas** (2023‚Äì2024) ‚Äî coached 10 students on software engineering, clean architecture, system design and interview prep
-- üí° **University Innovation Guide, Stanford** (2023‚Äì2024) ‚Äî led 3 cross-disciplinary teams using design-thinking frameworks
+- 👥 Led and mentored a **5-engineer squad** at Capital One, setting code-review standards
+- 🎓 **Student Mentor, UT Dallas** (2023–2024) — coached 10 students on software engineering, clean architecture, system design and interview prep
+- 💡 **University Innovation Guide, Stanford** (2023–2024) — led 3 cross-disciplinary teams using design-thinking frameworks
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1B4F8A,100:0D1B2A&height=110&section=footer" width="100%"/>
